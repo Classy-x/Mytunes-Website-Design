@@ -1,0 +1,258 @@
+#main{
+    display: felx;
+    justify-content: center;
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body,footer{
+    font-family: sans-serif;
+    flex-wrap: wrap;
+
+}
+#parent{
+    position: sticky;
+    top: 0px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 0px;
+    height: 40px;
+    text-indent: 25px;
+    background-color: rgb(51,51,51);
+    color: white;
+    line-height: 45px;
+}
+.items{
+    width: 100px;
+    height: 50px;
+    font-size: small;
+}
+.items:hover{
+ background-color:  rgb(71, 71, 71);
+
+
+}
+#h1{
+    font-size: 60px;
+    margin-top: 150px;
+}
+
+#Mytunes{
+    height: 100vh;
+    border: 1px solid black;
+    background-image: url("https://c0.wallpaperflare.com/preview/810/192/51/adult-band-black-and-white-concert.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 1500px 800px;
+
+}
+#para1{
+    font-size: 30px;
+    margin-top: 40px;
+    text-align: center;
+}
+#para2{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 30px;
+}
+
+#music{
+    margin-top:0px;
+    height: 200vh;
+    background-color: rgb(37,37,41);
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+#h2{
+    margin-top: 100px;
+    font-size: 40px;
+    margin-left: 43%;
+    justify-content: center;
+}
+#paraP{
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 480px;
+}
+#para4{
+    margin-top: 50px;
+    text-align: center ;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#Trial_butt{
+    margin-left: 43%;
+    margin-top: 50px;  
+    padding: 20px;
+    background-color: rgb(211,7,27);
+    color: white;
+    flex-direction: row;
+    width: 180px;
+}
+#Orange{
+    margin-top: 20px;
+    margin-left: 400px;
+}
+#phone{
+    background-image: url("../image/phone.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 140vh;
+
+}
+    
+#movie{
+    height: 210vh;
+    background-color: rgb(244,244,244);
+    display: flex;
+    flex-direction:column;
+}
+#mov1{
+   color: rgba(0, 0, 0, 0.774);
+    margin-top: 100px;
+    margin-left: 200px;
+}
+#paraMov{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#read_butt{
+    background-color: rgb(20,63,133);
+    color: white;
+    padding: 20px 15px;
+    width: 100px;
+    margin-left: 45%;
+}
+#img-read{
+    background-image: url("https://jolly-kalam-23776e.netlify.app/mytunes/img/mockup2.png");
+    height: 150vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+#qoute{
+    background-image: url("https://jolly-kalam-23776e.netlify.app/mytunes/img/section-bg.jpeg");
+    height: 80vh;
+    background-size: contain;
+    background-size: 1500px 520px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
+#qh1{
+    color: white;
+    margin-top: 150px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#paraq{
+    margin-top: 50px;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#card{
+    background-color: white;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(244,244,244);
+}
+#img-card{
+    background-image: url("https://jolly-kalam-23776e.netlify.app/mytunes/img/cards.png");
+    height: 65vh;
+    width: 50%;
+    margin-left: 80px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+#gift{
+    
+    color: rgb(51,51,51);
+    margin-top: 50px;
+    font-size: 20px;
+    width: 50%;
+    height: 50px;
+    /* border: 1px solid black; */
+    
+}
+#paragi{
+    /* border: 1px solid black; */
+    margin-top: 0px;
+    width: 500px;
+    height: 200px;
+    line-height: 30px;
+}
+#line{
+    border: 1px solid rgb(154,154,154);
+    border-bottom-style: none;
+}
+#foot{
+   background-color: rgb(37,37,41);
+   height: 40vh;
+    margin-left: 0px;
+    line-height: 25px;
+    display: flex;
+    flex-direction: row;
+    color: white ;
+}
+#line2{
+    border: 1px solid rgb(112, 112, 112);
+    border-bottom-style: none;
+     width: 200px;
+     margin: 10px;
+     margin-right: 30px;
+     margin-left: 0px;
+}
+#secs{
+    margin-left: 120px;
+    margin-top: 30px;
+    font-size: 15px;
+    width: 200px;
+    
+}
+.f{
+    font-size: 20px;
+    font-weight: 100;
+
+}
+#footCon{
+    color: rgb(199, 197, 197);
+}
+#copy{
+    background-color: rgb(51,51,51);
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+}
+#redeem{
+    color: rgb(15,15,173);
+}
+
