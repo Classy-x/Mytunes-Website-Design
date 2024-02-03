@@ -1,4 +1,4 @@
-#mytunes website clone 
+# Mytunes website clone 
 ## Technologies used
 -HTML
 -CSS
