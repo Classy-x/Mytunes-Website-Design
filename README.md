@@ -1,4 +1,4 @@
-# MyTunes Website Clone
+# Mytunes-Website-Design
 
 A responsive web design clone of the MyTunes music streaming website.
 
@@ -20,7 +20,6 @@ Check out the live demo [here](https://classy-x.github.io/Mytunes-Website-Design
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## Features
 
