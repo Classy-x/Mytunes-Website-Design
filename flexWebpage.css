@@ -1,8 +1,4 @@
-#main{
-    display: felx;
-    justify-content: center;
-    
-}
+
 *{
     margin: 0px;
     padding: 0px;
@@ -104,7 +100,7 @@ body,footer{
     margin-left: 400px;
 }
 #phone{
-    background-image: url("../image/phone.png");
+    background-image: url("phone.png");
     background-repeat: no-repeat;
     background-size: contain;
     height: 140vh;
@@ -199,11 +195,9 @@ body,footer{
     font-size: 20px;
     width: 50%;
     height: 50px;
-    /* border: 1px solid black; */
     
 }
 #paragi{
-    /* border: 1px solid black; */
     margin-top: 0px;
     width: 500px;
     height: 200px;
