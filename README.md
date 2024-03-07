@@ -14,7 +14,7 @@ This project is a clone of the MyTunes music streaming website, created as a web
 
 ## Demo
 
-Check out the live demo [here](https://classy-x.github.io/Mytunes-Website-Design.github.io/index.html).
+Check out the live demo [here](https://classy-x.github.io/Mytunes-Website-Design/).
 
 ## Technologies Used
 
